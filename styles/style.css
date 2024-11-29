@@ -1,0 +1,80 @@
+h1 {
+    text-align: center;
+    color: #8E26C0;
+    height: 84px;
+    top: 24px;
+    left: 653px;
+}
+
+#first {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FF0000;
+}
+
+#divOne {
+    width: 300px;
+    background-color: #FFE8E8;
+    margin-left: 20px;
+}
+
+#divTwo {
+    width: 600px;
+    padding-left: 20px;
+}
+
+#second {
+    padding-top: 20px;
+    padding-left: 18px;
+    padding-bottom: 20px;
+    padding-right: 18px;
+    border-top: 2px lightgreen solid;
+    border-bottom: 2px purple solid;
+    border-left: 2px rgb(204, 50, 176) solid;
+    border-right: 2px blue solid;
+    text-align: center;
+}
+
+#divThree {
+    width: 600px;
+    margin-left: 20px;
+    background-color: #FFE8E8;
+}
+
+#third {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 18px;
+    text-align: center;
+}
+
+#spanOne {
+    color: red;
+}
+
+#divFour {
+    width: 650px;
+    margin-left: 20px;
+}
+
+#fourth {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    text-align: right;
+    border: 2px blue solid;
+
+}
+
+img {
+    margin-left: 20px;
+    width: 250px;
+    height: 200px;
+
+}
+
+    
+    
+   
